@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707085839 source:c:\users\laptop hp\desktop\ejercicios del capitulo 2 del libro pienza en c\ejercicio 2.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
