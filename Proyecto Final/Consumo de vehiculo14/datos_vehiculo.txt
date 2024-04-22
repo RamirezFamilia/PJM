@@ -1,0 +1,8 @@
+Consumo en ciudad: 16.00
+Consumo en carretera: 8.00
+Costo del seguro: 12000.00
+Costo del mantenimiento: 6200.00
+Precio del combustible: 293.00
+Depreciacion a 5 anos: 700000.00
+Costo de las gomas: 26000.00
+Kilometros que dan las gomas: 20000.00
